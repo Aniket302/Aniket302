@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r)](https://skillicons.dev)
 
 <!--
 **Aniket302/Aniket302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
