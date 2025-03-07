@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Aniket302&show_icons=true&theme=dark" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Aniket302&theme=dark&hide_border=true" width="400">
 </p>
+-->
 
 ![Aniket302's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket302&theme=dark&show_icons=true&hide_border=true&layout=compact)
