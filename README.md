@@ -11,9 +11,7 @@ I focus on **Data Engineering, Data Science, Data Analytics and sometimes Softwa
 - **Data Engineering:** PySpark, Apache Airflow, Databricks, Snowflake, Azure (ADLS, ADF, Synapse Analytics), Hadoop, Docker, PostgreSQL, MySQL
 - **Data Science & ML:** Python, SQL, R, Scikit-learn, XGBoost, Random Forest, Clustering, GenAI/LLMs
 - **Analytics & Visualization:** Streamlit, Dash, Plotly, Power BI, Tableau, Excel, DAX
-
-### 📈 GitHub Contributions
-![GitHub Streak](https://herokuapp.com)
+- **Development Frameworks:** Python - Django, Flask, FastAPI | Javascript - NodeJS, Express, React| .NET
 
 ### 💬 Let's Connect!
 - ✉️ [aniket_kj@outlook.com](mailto:aniket_kj@outlook.com)
